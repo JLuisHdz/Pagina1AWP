@@ -68,9 +68,9 @@ body{
 }
 
 .subheaderv{
-    height: 160px;
+    height: 150px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 110px;
 }
 
 .subheader h1{
@@ -80,7 +80,7 @@ body{
 
 .row {
     display: grid;
-    gap: 12rem;
+    gap: 10rem;
     grid-template-rows: 20rem;
     grid-template-columns: repeat(auto-fill, minmax(min(300px, 17rem), 1fr));
 }
